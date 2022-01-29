@@ -1,0 +1,23 @@
+.Temp{
+    position: relative;
+    right: 50px;
+}
+
+.Tempdata{
+    position: relative;
+    left: 220px;
+}
+
+.Humiddata{
+    position: relative;
+    left: 200px;
+}
+
+.table{
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+  position: relative;
+  right: 50px;
+  border: 1px solid black;
+}

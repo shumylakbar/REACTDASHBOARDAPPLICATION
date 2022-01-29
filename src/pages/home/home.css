@@ -1,0 +1,47 @@
+.featuredinfo{
+    position: relative;
+    left: 185px;
+    bottom: 10px;
+}
+
+.Chart1{
+    position: relative;
+    left: 200px;
+    top: 30px;
+}   
+
+.map{
+    position: relative;
+    left: 310px;
+    bottom: 05px;
+}   
+
+
+@media only screen and (min-width: 1600px) {
+
+.Chart1{
+        position: relative;
+        left: 200px;
+        top: 80px;
+}   
+
+.Chart2{
+    position: relative;
+    left: -79px;
+    top:120px;
+    
+}
+
+.Chart3{
+    position: relative;
+    right: 470px;
+    bottom: 205px;
+}
+
+.map{
+    position: relative;
+    left: 850px;
+    bottom: 525px;
+}
+
+}
